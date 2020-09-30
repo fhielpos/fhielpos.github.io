@@ -1,18 +1,16 @@
 # README.md
 
-If you didn't notice still, I am Franco Hielpos. 
+If you didn't notice still, I am Franco Hielpos. My surname is from Greece.
 
-- :computer: What: SysAdmin 
-- :wrench: [Previous experience](https://github.com/fhielpos/fhielpos/blob/master/EXPERIENCE.md)
-- :round_pushpin:  Where: Argentina (GMT -3)
-- :closed_book: Currently learning: 
-  - <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/kubernetes.png" width="20" height="20" alt="kubernetes"/> Certified Kubernetes Administrator
-- :mailbox: Contact: [fhielpos@gmail.com](mailto:fhielpos@gmail.com)
-- :pizza: Favourite meal: Tortilla de papas :potato:
-
-:earth_americas: [My other webpage](https://culpeo.blog)
-
-:octocat: [Github](https://github.com/fhielpos)
+:round_pushpin:  From: Argentina (GMT -3)</br>
+:computer: What: SysAdmin</br>
+:wrench: [Previous experience](https://github.com/fhielpos/fhielpos/blob/master/EXPERIENCE.md)</br>
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/kubernetes.png" width="20" height="20" alt="kubernetes"/>Currently prepearing the Certified Kubernetes Administrator exam</br>
+:cloud: Little Cloud experience</br>
+:mailbox: Contact: [fhielpos@gmail.com](mailto:fhielpos@gmail.com)</br>
+:octocat: [Github](https://github.com/fhielpos)</br>
+:earth_americas: [My other webpage](https://culpeo.blog)</br>
+:pizza: Favourite meal: :potato: Tortilla de papas </br>
 
 ## Posts:
 <ul>
