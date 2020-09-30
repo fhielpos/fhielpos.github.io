@@ -10,7 +10,8 @@ If you didn't notice still, I am Franco Hielpos.
 - :mailbox: Contact: [fhielpos@gmail.com](mailto:fhielpos@gmail.com)
 - :pizza: Favourite meal: Tortilla de papas :potato:
 
-:earth_americas: [My other webpage](https://culpeo.blog) 
+:earth_americas: [My other webpage](https://culpeo.blog)
+
 :octocat: [Github](https://github.com/fhielpos)
 
 ## Posts:
