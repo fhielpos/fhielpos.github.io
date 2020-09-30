@@ -1,1 +1,13 @@
+title: franco hielpos
+description: >- # this means to ignore newlines until "baseurl:"
+   Technology lover looking to get into the SRE world.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "fhielpos.github.io"
+github_username:  fhielpos
+permalink: /:title:output_ext
+author: Franco
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
