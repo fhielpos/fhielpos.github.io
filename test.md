@@ -1,6 +1,5 @@
 ---
-layout: post
-title: "This is a date"
+title: "This is a test"
 ---
 
 This is a random post, just to see if this thing is working. Probably not, but lets see.
