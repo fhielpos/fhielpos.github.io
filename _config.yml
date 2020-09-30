@@ -10,4 +10,5 @@ author: Franco
 markdown: kramdown
 theme: jekyll-theme-minimal
 plugins:
+  - jemoji
   - jekyll-feed
