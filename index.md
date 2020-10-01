@@ -1,9 +1,9 @@
 # README.md
 
-If you didn't notice still, I am Franco Hielpos. My surname is from Greece.
+If you didn't notice still, I am Franco Hielpos. I live in Argentina, my surname is from Greece and my native languaje is actually Spanish.
 
 :round_pushpin:  From: Argentina (GMT -3) <br>
-:computer: What: SysAdmin<br>
+:computer: What: SysAdmin (seeking to get into the DevOps / SRE world)<br>
 :wrench: [Previous experience](https://github.com/fhielpos/fhielpos/blob/master/EXPERIENCE.md)<br>
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/kubernetes.png" width="20" height="20" alt="kubernetes"/>Currently prepearing the Certified Kubernetes Administrator exam<br>
 :cloud: Little Cloud experience<br>
