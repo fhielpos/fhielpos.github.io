@@ -1,6 +1,6 @@
 title: franco hielpos
 description: >- # this means to ignore newlines until "baseurl:"
-   Argentinian technology lover and sysadmin looking to get into the SRE world. Passionate about Kubernetes and future CKA. I write (*some little*) code.
+   Argentinian technology lover and sysadmin looking to get into the SRE world. Passionate about Kubernetes. Certified Kubernetes Administrator. I write (some little) code.
    This is just a random blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "fhielpos.github.io"
