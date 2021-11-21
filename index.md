@@ -15,3 +15,13 @@ If you didn't notice still, I am Franco Hielpos. I live in Argentina, my surname
 - [Wazuh Docker Agent](https://github.com/fhielpos/wazuh-docker-agent) - [Wazuh Agent @ Dockerhub](https://hub.docker.com/r/fhielpos/wazuh-agent)
 - [Kubernetes deployments I am testing](github.com/fhielpos/kubernetes)
 - [AWS testing and automation with Terraform](github.com/fhielpos/aws)
+
+## Blog posts:
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
