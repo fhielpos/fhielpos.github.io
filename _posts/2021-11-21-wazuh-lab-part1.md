@@ -3,7 +3,7 @@ layout: post
 title: "Setting up a Wazuh lab - Part 1 [Installation]"
 ---
 
-Ever wanted to mount your own Wazuh lab? I wanted to make my labs more "realistic" so, I decided to throw a Droplet on the internet and install Wazuh on it to see what would happen. This, is my journey building this lab.
+Ever wanted to mount your own Wazuh lab? I wanted to make my labs more "realistic" so, I decided to throw a Droplet on the internet and install Wazuh on it to see what would happen. This is my journey building this lab.
 
 <img src="assets/img/wazuh.png" alt="Wazuh Open Source Security Platform" width=500px height=auto>
 
