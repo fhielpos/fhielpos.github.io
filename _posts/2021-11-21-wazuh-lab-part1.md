@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Setting up a Wazuh lab - Part 1 [Installation]"
+title: "Setting up a Wazuh lab - Part 1 [Installation and Users customization]"
 ---
 
 Ever wanted to mount your own Wazuh lab? I wanted to make my labs more "realistic" so, I decided to throw a Droplet on the internet and install Wazuh on it to see what would happen. This is my journey building this lab.
