@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@import "header";
+
+header {
+    width: 220px;
+}
+
+@import "section";
+
+section {
+    width: 660px;
+}
