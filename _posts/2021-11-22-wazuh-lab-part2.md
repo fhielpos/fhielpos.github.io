@@ -67,8 +67,8 @@ Finally is time to configure Kibana to use our brand new certificates. We need t
 
 ```yaml
 server.ssl.enabled: true
-server.ssl.key: "/etc/kibana/certs/https.pem"
-server.ssl.certificate: "/etc/kibana/certs/https-key.pem"
+server.ssl.key: "/etc/kibana/certs/https-key.pem"
+server.ssl.certificate: "/etc/kibana/certs/https.pem"
 server.ssl.certificateAuthorities: ["/etc/kibana/certs/https-ca.pem"]
 ```
 
@@ -78,4 +78,4 @@ Once done, simply restart the Kibana service and access your domain.
 systemctl restart kibana
 ```
 
-
+That's it!
