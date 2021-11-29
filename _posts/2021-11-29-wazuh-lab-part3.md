@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Setting up a Wazuh lab - Part 3 [A bit of customization]"
+title: "Setting up a Wazuh lab - Part 3 [A bit of customization and Telegram bot]"
 ---
 
 Hello there, in this section of the journey to create my exposed Wazuh lab, I will be making this lab a bit more **"secure"**.
 
-<img src="assets/img/telegram.png" alt="Let's Encrypt" width=200px height=auto>
+<img src="assets/img/telegram.png" alt="Telegram" width=500px height=auto>
 
 I have already configured custom `users` and `passwords` on {% post_url 2021-11-21-wazuh-lab-part1 %}. However, there are a couple of things I want to make sure first:
 
@@ -67,7 +67,7 @@ Creating a Telegram bot is not much complicated. Basically, you need to talk wit
 
 ### The Python script
 
-Wazuh integrations should be located on `/var/ossec/integrations` and follow the `custom-NAME` name pattern, with no extension. [Here you can read more about custom integrations on Wazuh](https://wazuh.com/blog/how-to-integrate-external-software-using-integrator/).
+Wazuh integrations should be located on `/var/ossec/integrations` and follow the `custom-NAME` name pattern, with no extension. [Here, you can read more about custom integrations on Wazuh](https://wazuh.com/blog/how-to-integrate-external-software-using-integrator/).
 
 
 Here is the script that will be located in `/var/ossec/integrations/custom-telegram`:
@@ -178,4 +178,4 @@ Here we are:
 
 After a `Wazuh` restart, we can log into the VM and see if we receive an alert:
 
-<img src="assets/img/telegram_notification.png" alt="Let's Encrypt" width=200px height=auto>
+<img src="assets/img/telegram_notification.png" alt="Telegram notification" width=500px height=auto>
